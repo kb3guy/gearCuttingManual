@@ -1,0 +1,2 @@
+main:
+	pdflatex roughDraft.tex
