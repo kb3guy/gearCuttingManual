@@ -1,2 +1,3 @@
 main:
-	pdflatex roughDraft.tex
+	#pdflatex roughDraft.tex
+	pdflatex gearmaking-current.tex
